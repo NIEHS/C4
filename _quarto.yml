@@ -5,10 +5,10 @@ project:
 website:
   title: "C4"
   navbar:
+    logo: fig/CHORDS_icon_logo_nobackgorund.png
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
 
 format:
   html:

@@ -2,3 +2,19 @@
 title: "C4: CHORDS and CAFE Compuational Chorus"
 ---
 
+# CHORDS
+
+# CAFE
+
+# What are computational best-practices?
+
+# Get Involed
+
+We are in the process of developing a strategy for forming the community of practice
+around best-practices for computational methods and applications in the environmental 
+health sciences. We encourage anyone interested in this topic to provide their contact
+information below, so you can be involved.
+
+Please enter your email to subscribe to our newsletter.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSev0TuYQaXTr-avUPXs99sbeTB5xuamQWB3_XO95N0klA23gA/viewform?embedded=true" width="640" height="784" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
