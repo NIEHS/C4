@@ -4,7 +4,7 @@ title: "C4: CHORDS and CAFE Compuational Chorus Community of Practice"
 
 # CHORDS
 
-[Climate Health Outcomes Research and Data Systems](https://niehs.github.io/chords_landing/q)
+[Climate Health Outcomes Research and Data Systems](https://niehs.github.io/chords_landing/)
 
 # CAFE
 
