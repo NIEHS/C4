@@ -1,12 +1,31 @@
 ---
-title: "C4: CHORDS and CAFE Compuational Chorus"
+title: "C4: CHORDS and CAFE Compuational Chorus Community of Practice"
 ---
 
 # CHORDS
 
+[Climate Health Outcomes Research and Data Systems](https://niehs.github.io/chords_landing/q)
+
 # CAFE
 
+[Climate Change and Health Research Coordinating Center](https://climatehealthcafe.org/)
+
 # What are computational best-practices?
+
+We want to support and promote reproducible and open-source computational methods for
+the environmental health sciences. Best-practices include:
+
+- Open Source
+- Version Control
+- Continuous Integration 
+- Unit and Integration Testing
+- Reproducible Pipelines
+
+## Focus Areas
+
+We are developing a governance plan which will include focus areas, but we envision
+something along the lines of (1) Geospatial Methods (2) Health Analyses (3) Geophysics 
+and (4) Computer Science
 
 # Get Involed
 
